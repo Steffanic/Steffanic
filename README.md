@@ -1,7 +1,7 @@
 Hey there! 👋
 
- - 📚I’m currently working on finishing my PhD in Particle Physics📚
- - 🤖 I’m currently learning about Machine Learning algortihms 🤖
+ - 📚 I’m currently working on finishing my PhD in Particle Physics 📚
+ - 🤖 I’m learning about Machine Learning algorithms 🤖
  - 💬 Ask me about using Machine Learning in Physics! 👂
  - 📫 How to reach me: 📧 steffaniccodes@gmail.com 🐦 @SteffanicCodes
  - 😄 Pronouns: he/him
