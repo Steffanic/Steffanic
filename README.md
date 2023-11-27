@@ -4,7 +4,7 @@ Hey there! 👋
  - 🤖 I’m looking for a job in Machine Learning 🤖
  - 💬 Ask me about using Machine Learning in Physics! 👂
  - 📫 How to reach me: 📧 steffaniccodes@gmail.com 🐦 @SteffanicCodes
- - 🕸️ Check out my website: [steffanic.com](www.steffanic.com)
+ - 🕸️ Check out my website: [steffanic.com](https://www.steffanic.com)
  - 😄 Pronouns: he/him
 
 I'm focusing on finishing my PhD and getting as much experience with Machine Learning Research and good software engineering practices as I possibly can in the meantime. Check out my project repositories, here are a couple that I would like to highlight:
